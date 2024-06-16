@@ -1,0 +1,16 @@
+Django
+djangorestframework
+requests
+
+# Testing and Code Quality
+coverage
+flake8
+black
+isort
+
+# Mock library for testing
+mock
+
+# XML reporting for unittest
+unittest-xml-reporting
+
